@@ -10,6 +10,6 @@ Bot以外のユーザーがConfig.jsonで設定したメッセージを送信し
 <br>
 そのメッセージにConfig.jsonで設定したリアクションをつけるシンプルなbot
 <br>
-License(ライセンス)
+###License(ライセンス)
 <br>
 https://github.com/jaoafa/jao-Minecraft-Server/blob/master/jaoLICENSE.md
