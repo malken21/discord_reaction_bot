@@ -9,3 +9,7 @@ When a user other than the bot says a specific message, a bot that reacts to tha
 Bot以外のユーザーがConfig.jsonで設定したメッセージを送信した場合
 <br>
 そのメッセージにConfig.jsonで設定したリアクションをつけるシンプルなbot
+<br>
+License(ライセンス)
+<br>
+https://github.com/jaoafa/jao-Minecraft-Server/blob/master/jaoLICENSE.md
