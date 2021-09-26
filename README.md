@@ -12,4 +12,4 @@ Bot以外のユーザーがConfig.jsonで設定したメッセージを送信し
 そのメッセージにConfig.jsonで設定したリアクションをつけるシンプルなbot
 <br>
 ## License(ライセンス)
-[MarumasaLicense v1.0](https://github.com/malken21/MarumasaLicenses/blob/main/MarumasaLicense%20v1.0/LICENSE.md)
+Japanese: [MarumasaLicense v1.0](https://github.com/malken21/MarumasaLicenses/blob/main/MarumasaLicense%20v1.0/LICENSE.md)
