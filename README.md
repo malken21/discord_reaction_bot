@@ -1,2 +1,2 @@
 # discord_reaction_bot
-bot以外のユーザーが特定のメッセージを発言したら そのメッセージにリアクションをつけるbot
+When a user other than the bot says a specific message, a bot that reacts to that message
