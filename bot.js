@@ -4,8 +4,10 @@ const Config = require("./Config.json")
 client.login(Config.TOKEN);
 client.on('messageCreate', async message => {
   if (message.content.indexOf(`${Config.Message}`) != -1 && !message.author.bot) {
-    for(var loop = 0;loop < Config.Reactions.length;loop ++){
-      message.react(`${Config.Reactions[loop]}`);
+    for(let loop = 0;loop < Config.Reactions.length;loop ++){
+      message.react(`${Config.Reactions[loop]}`).catch(err => {
+        console.error(err);
+      });
     }
   }
 })
